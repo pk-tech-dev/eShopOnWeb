@@ -5,7 +5,6 @@ on:
   push:
     branches:
       -main
-    
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
